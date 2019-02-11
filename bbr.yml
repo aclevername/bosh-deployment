@@ -4,7 +4,7 @@
     name: backup-and-restore-sdk
     version: 1.13.0-rc.23
     url: https://s3-eu-west-1.amazonaws.com/backup-and-restore-sdk-releases/backup-and-restore-sdk-1.13.0-rc.23.tgz
-    sha1: 8cc347920adeeca679fb532860ed0216eee4553b
+    sha1: fca2bd684105981fceeb87c541070031065eb33b
 
 - type: replace
   path: /instance_groups/name=bosh/jobs/-
